@@ -1,5 +1,11 @@
 # Portal Sample App
 
+> [!IMPORTANT]
+> **This repository has moved and is archived.** The Portal Sample App now lives at
+> [`meta-vr-agentic-tools/samples/portal-sample-app`](https://github.com/Njdonatelli/meta-vr-agentic-tools/tree/main/samples/portal-sample-app),
+> alongside the `portal` skill it pairs with. Its full commit history was carried over.
+> This repository is read-only: open issues and pull requests there instead.
+
 A minimal Android app for building on discontinued Meta Portal touch and TV devices. Demonstrates UI controls, runtime permissions, camera preview, and audio recording/playback — preconfigured for Portal hardware constraints.
 
 ## Quick Start: Portal Development Skill
